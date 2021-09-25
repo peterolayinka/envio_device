@@ -1,0 +1,7 @@
+startup.sh
+db.sqlite3
+.python-version
+*__pycache__
+venv
+.DS_Store
+.coverage
