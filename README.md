@@ -8,11 +8,7 @@
 
 # To install dependecies
 
-`. ./startup.sh istall` or `pip install -r ./requirements.txt`
-
-# To install dependecies
-
-`. ./startup.sh istall` or `pip install -r ./requirements.txt`
+`. ./startup.sh install` or `pip install -r ./requirements.txt`
 
 # To Run Migration
 
